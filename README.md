@@ -13,7 +13,7 @@
   
   <a name="installation"></a>
   ## Installation
-  To use the application locally, enter 'npm i' then 'node server.js' into the Terminal. Otherwise visit the url of the <a href='https://HEROKU-LINK.herokuapp.com/'>deployed app</a>.
+  To use the application locally, enter 'npm i' then 'node server.js' into the Terminal. Otherwise visit the url of the <a href='https://peaceful-plateau-48318.herokuapp.com/'>deployed app</a>.
   
   <a name="usage"></a>
   ## Usage
